@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="115.071" height="42.071" viewBox="0 0 115.071 42.071">
+  <g id="Gruppe_31" data-name="Gruppe 31" transform="translate(-82 -56)">
+    <g id="Gruppe_30" data-name="Gruppe 30" transform="translate(-144.508 -234.819)">
+      <text id="VIENYL" transform="translate(249.508 308.819)" fill="#fff" font-size="19" font-family="Menco-Medium, Menco" font-weight="500" letter-spacing="0.101em"><tspan x="0" y="0">VIENYL</tspan></text>
+    </g>
+    <g id="Ellipse_2" data-name="Ellipse 2" transform="translate(82 70)" fill="none" stroke="#ff8810" stroke-width="1">
+      <circle cx="9" cy="9" r="9" stroke="none"/>
+      <circle cx="9" cy="9" r="8.5" fill="none"/>
+    </g>
+    <line id="Linie_83" data-name="Linie 83" x2="86" transform="translate(91.5 79.5)" fill="none" stroke="#ff8810" stroke-linecap="round" stroke-width="1"/>
+    <line id="Linie_84" data-name="Linie 84" x2="8" y2="7" transform="translate(177.5 79.5)" fill="none" stroke="#ff8810" stroke-linecap="round" stroke-width="1"/>
+    <g id="Polygon_2" data-name="Polygon 2" transform="translate(197.071 93.828) rotate(135)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M3,0,6,14H0Z" stroke="none"/>
+      <path d="M 3 4.77259635925293 L 1.236985206604004 13 L 4.763014793395996 13 L 3 4.77259635925293 M 3 0 L 6 14 L 0 14 L 3 0 Z" stroke="none" fill="#ff8810"/>
+    </g>
+  </g>
+</svg>
